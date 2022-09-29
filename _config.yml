@@ -82,6 +82,15 @@ content:
           Hahnemann University Hospital was a tertiary care center in Center City, Philadelphia, and the Center City Philadelphia teaching hospital of Drexel University College of Medicine.
         description: | # this will include new lines to allow paragraphs
           Handpicked to lead IT delivery solutions for a medium sized hospital. Recognized for consistently delivering high standards in system management ensuring optimal levels of operability and minimal downtime. Experienced in managing the ongoing troubleshooting including providing Tier 1 and 2 level escalation support. Performs setup, scripting, installation, configuration, and deployment of PC/laptop hardware and software to business areas in accordance with local and System guidelines. Supports and administers audio-visual and mobile device equipment, working with vendors and training customers. Managed a wide array of tasks that included installing, configuring, and maintaining VMware environments, designing and deploying template and parent VMs, troubleshoot and resolve VMware infrastructure related issues.
+      - layout: right
+        title: Merakey
+        sub_title: Desktop Technician
+        caption: August 2018 - November 2018
+        link: https://www.merakey.org/ 
+        quote: >
+          Nonprofit specializing in Behavioral Health, Education and Autism, and Intellectual and Developmental Disabilities.
+        description: | # this will include new lines to allow paragraphs
+          Worked with partners during change control activities to ensure smooth migrations and implementations, including performing change tasks. Configured and tested networks infrastructure, application programming, and software applications in alignment with business requirements. Deploys Active Directory and Windows Server Support while delivering minimum downtime and impact to business operations. Possesses advance skills in installing Windows OS, printers, and business applications. Supported users with their computers, printers and phones. (Consists of Windows 7/10 environment using office 2010/2016 with Dell Laptops and Desktops along with HP Printers and Ricoh Copiers.) Handle re-imaging or redeployment of computer equipment. Manage and create user accounts in Active Directory and Exchange. Work with other IT staff to ensure customer service to the internal customers. Keep desktop OS and desktop software up to date. Coordinate printer setup and repairs. Contact vendors and contractors as needed.
   - title: Education
     layout: list
     content:
