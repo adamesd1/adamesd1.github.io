@@ -105,9 +105,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      Apart from being a Systems Administrator, I enjoy my time both being outdoors, and indoors. During the warmer months here in Philadelphia, I enjoy playing basketball, traveling, and swimming. When forced indoors, I follow a number of movies and television shows, I am an aspiring videogame developer, and I spend my free time exploring the latest technology advancements in the front-end web development world.
 
 # Footer
 footer_show_references: true
