@@ -36,8 +36,8 @@ linkedin_username: david-diaz-adames
 # Additional icon links
 #additional_links:
 #- title: Link name
- # icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
- # url: Link url (eg. https://google.com)
+# icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+# url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -55,29 +55,29 @@ about_content: | # this will include new lines to allow paragraphs
    A Solutions-Focused IT Professional offering extensive experience in network administration, and troubleshooting supporting clients from a broad spectrum of industries. Skilled in applying comprehensive strategies to develop virtual machines, IT structures, and processes.
 
  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-   # - Lists
-  #  - Tables
-   # - <a href="google.com">Links</a>
-   # - Images ![alt text](/images/landscape-trees.jpg "Trees")
+ # - Lists
+ #  - Tables
+ # - <a href="google.com">Links</a>
+ # - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 #content:
- # - title: Projects # Title for the section
- #   layout: list # Type of content section (list/text)
-  #  content:
- #     - layout: left
+# - title: Projects # Title for the section
+#   layout: list # Type of content section (list/text)
+#  content:
+#     - layout: left
     #    border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
     #    title: Project name
-     #   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-     #   link_text: Link Text
+    #   link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+    #   link_text: Link Text
     #    additional_links:
-     #     - title:  Github page for project (eg. sproogen/modern-resume-theme)
-     #       icon: fab fa-github
-     #       url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-     #     - title:  Github page for project (eg. sproogen/modern-resume-theme)
-     #       icon: fab fa-github
-     #       url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-     #   quote: >
+    #     - title:  Github page for project (eg. sproogen/modern-resume-theme)
+    #       icon: fab fa-github
+    #       url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+    #     - title:  Github page for project (eg. sproogen/modern-resume-theme)
+    #       icon: fab fa-github
+    #       url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+    #   quote: >
     #      Short overview of the project (optional)
     #    description: | # this will include new lines to allow paragraphs
     #      Description about the work on/with the project
