@@ -73,16 +73,6 @@ content:
           Bryn Mawr College is a women's liberal arts college in Bryn Mawr, Pennsylvania. Founded as a Quaker institution in 1885, Bryn Mawr is one of the Seven Sister colleges.
         description: | # this will include new lines to allow paragraphs
           Responsibilities include hardware and software support for teaching and research, faculty desktop and laptop support, and administration of curriculum resources. Reporting to the Chair of the Computer Science department. I am responsible for the installation, integration, maintenance, and integrity of all hardware and software running on all computing systems in the department. In addition, I am also responsible for the condition and upkeep of all teaching and research labs. I participate in the day-to-day management of the systems, support of the user community and software support for research and teaching. I am also involved in a number of initiatives, including developing software, course materials, and exploring new and innovative uses of research in the classroom. I co-report to the College’s Chief Information Officer/Director of Libraries and collaborate with relevant teams in the Library Information and Technology Services division. I am also a member of the College's Information Stewardship Council. I support the departmental computational infrastructure of nearly 80 workstations, associated servers, peripherals and electronic services (printing, web site, email, wiki, etc.) Support the infrastructure of 3 Oracle Solaris servers and two 25-workstation teaching/general use laboratories with dual-boot (Windows and Linux) computers. With additional research laboratories and workstations including Macs and ancillary equipment.
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
   - title: Education
     layout: list
     content:
