@@ -95,13 +95,13 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: La Salle University
+        sub_title: BA Information Technology
+        caption: Date Range 2012 - 2016
         quote: >
-          Short institution or course description (optional)
+          La Salle University is a private, Catholic university in Philadelphia, Pennsylvania. The university was founded in 1863 by the Institute of the Brothers of the Christian Schools and named for St. Jean-Baptiste de La Salle. 
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          The program is designed for those students interested in the study of networks and client support systems, with an option for evening classes for students to accommodate busy schedules.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
