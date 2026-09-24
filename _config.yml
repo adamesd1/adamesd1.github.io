@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: David Diaz Adames
 title: Systems Administrator
-email: davidadames608@gmail.com
+email: dave@askmedave.xyz
 # email_title: Email (Email title override)
 #phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
@@ -20,7 +20,7 @@ darkmode: true
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  adamesd1
+github_username: adamesd1
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
 #facebook_username: jekyll
@@ -52,13 +52,13 @@ linkedin_username: david-diaz-adames
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-   A Solutions-Focused IT Professional offering extensive experience in network administration, and troubleshooting supporting clients from a broad spectrum of industries. Skilled in applying comprehensive strategies to develop virtual machines, IT structures, and processes.
+  A Solutions-Focused IT Professional offering extensive experience in network administration, and troubleshooting supporting clients from a broad spectrum of industries. Skilled in applying comprehensive strategies to develop virtual machines, IT structures, and processes.
 
- # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
- # - Lists
- #  - Tables
- # - <a href="google.com">Links</a>
- # - Images ![alt text](/images/landscape-trees.jpg "Trees")
+# You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+# - Lists
+#  - Tables
+# - <a href="google.com">Links</a>
+# - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Experience
@@ -86,7 +86,7 @@ content:
         title: Merakey
         sub_title: Desktop Technician
         caption: August 2018 - November 2018
-        link: https://www.merakey.org/ 
+        link: https://www.merakey.org/
         quote: >
           Nonprofit specializing in Behavioral Health, Education and Autism, and Intellectual and Developmental Disabilities.
         description: | # this will include new lines to allow paragraphs
@@ -99,7 +99,7 @@ content:
         sub_title: BA Information Technology
         caption: Date Range 2012 - 2016
         quote: >
-          La Salle University is a private, Catholic university in Philadelphia, Pennsylvania. The university was founded in 1863 by the Institute of the Brothers of the Christian Schools and named for St. Jean-Baptiste de La Salle. 
+          La Salle University is a private, Catholic university in Philadelphia, Pennsylvania. The university was founded in 1863 by the Institute of the Brothers of the Christian Schools and named for St. Jean-Baptiste de La Salle.
         description: | # this will include new lines to allow paragraphs
           The program is designed for those students interested in the study of networks and client support systems, with an option for evening classes for students to accommodate busy schedules.
   - title: A Little More About Me
@@ -120,17 +120,18 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
 
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
+exclude:
+  [
+    "Gemfile",
+    "Gemfile.lock",
+    "node_modules",
+    "vendor/bundle/",
+    "vendor/cache/",
+    "vendor/gems/",
+    "vendor/ruby/",
+    "lib/",
+    "scripts/",
+    "docker-compose.yml",
   ]
